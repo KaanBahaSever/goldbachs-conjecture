@@ -1,6 +1,0 @@
-C:\Users\kaani\source\repos\EvenSum\EvenSum\bin\Debug\EvenSum.exe
-C:\Users\kaani\source\repos\EvenSum\EvenSum\bin\Debug\EvenSum.pdb
-C:\Users\kaani\source\repos\EvenSum\EvenSum\obj\Debug\EvenSum.csprojAssemblyReference.cache
-C:\Users\kaani\source\repos\EvenSum\EvenSum\obj\Debug\EvenSum.csproj.CoreCompileInputs.cache
-C:\Users\kaani\source\repos\EvenSum\EvenSum\obj\Debug\EvenSum.exe
-C:\Users\kaani\source\repos\EvenSum\EvenSum\obj\Debug\EvenSum.pdb
